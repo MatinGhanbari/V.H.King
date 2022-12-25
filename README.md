@@ -13,4 +13,5 @@ This is a JavaFx game.
 ![](images/game.png)
 
 ## How to run
-<li>run <code>run.bat</code> file in out/artifacts/V_H_King_jar</li># V.H.King
+<li>Move javafx libraries to "C:\Program Files\Javafx"</li>
+<li>Run <code>run.bat</code> file in out/artifacts/V_H_King_jar</li>
